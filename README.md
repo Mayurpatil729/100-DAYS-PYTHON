@@ -1,21 +1,81 @@
-# 100-DAYS-PYTHON
-Completed 100 Days of Python Programming on Udemy! 🎉 Successfully honed my Python skills through daily challenges, hands-on projects, and comprehensive learning modules. Ready to apply my newfound expertise to real-world applications. #Python #CodingJourney #Udemy100Days
+# 100 Days of Python 🐍
 
-Welcome to my "100 Days of Python" Repository! 🐍🚀
-
-In this repository, I proudly share the culmination of my dedicated journey through Udemy's comprehensive Python programming course. Over the course of 100 days, I've immersed myself in daily challenges, hands-on projects, and in-depth learning modules, all designed to sharpen my Python skills and deepen my understanding of this versatile language.
-
-From mastering fundamental concepts to tackling complex coding problems, I've invested time and effort to ensure a solid grasp of Python's capabilities. Now, armed with proficiency in Python, I'm excited to bring my skills to the real world and explore the endless possibilities this language offers across various domains.
-
-Feel free to explore my repository's content, which includes a collection of projects, code snippets, and insights gained from this enriching journey. Whether you're a fellow learner, an aspiring developer, or someone intrigued by the power of Python, I hope my repository can serve as a source of inspiration and knowledge.
-
-If you find value in my work or if my projects have been helpful to you, I kindly ask for your support. Please consider giving this repository a star ⭐ to show your appreciation and help others discover this resource. Your feedback and encouragement mean a lot to me as I continue to grow as a programmer.
-
-Thank you for being a part of my coding journey! Let's keep the Pythonic spirit alive! 🎉👩‍💻👨‍💻
-
-#Python #CodingJourney #Udemy100Days
+This repository contains my progress through the **100 Days of Python** course on Udemy by Dr. Angela Yu. Over the course of 100 days, I worked on a variety of Python projects and daily challenges that helped me improve my understanding of the language and its applications.
 
 ---
 
-Don't forget to give this repository a star if you find it useful or inspiring! ⭐ Your support helps motivate me to continue sharing my knowledge and experiences with the programming community. Thank you for being a part of this exciting journey! 🚀🙌
+## About
 
+The goal of this challenge was to improve my Python programming skills by learning and practicing every day. This repository includes:
+
+- Daily coding exercises
+- Small to medium-sized projects
+- Practice with real-world Python applications
+- Code written during the course, organized by day
+
+---
+
+## Topics Covered
+
+Some of the key topics I explored during the 100 days:
+
+- Python basics (variables, loops, functions, etc.)
+- Object-Oriented Programming (OOP)
+- File handling
+- Web development with Flask
+- API requests and JSON
+- Web scraping
+- GUI with Tkinter
+- Data and time modules
+- Automation
+- Games with Python
+
+---
+
+## Repository Structure
+
+Each folder is named by day and contains the code or project for that day.
+
+
+
+100-days-python/
+├── day\_001/
+├── day\_002/
+├── ...
+├── day\_100/
+└── README.md
+
+---
+
+## How to Use
+
+You can go through the folders day by day to see the code and projects. Each folder contains `.py` files with the completed code and sometimes additional files for assets or project requirements.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Contributions
+
+If you find something that can be improved or fixed, feel free to contribute:
+
+1. Fork the repository
+2. Make your changes
+3. Submit a Pull Request
+
+---
+
+## Acknowledgment
+
+Thanks to **Dr. Angela Yu** and the **Udemy 100 Days of Python** course for providing an excellent learning experience.
+
+---
+
+Feel free to explore, learn, and modify the code as needed. If you like this repo, consider giving it a ⭐.
+
+
+---
